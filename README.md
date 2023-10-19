@@ -1,2 +1,3 @@
-# https://eakameneva.github.io/webcore/
-# https://eakameneva.github.io/webcore/sidebar
+# https://eakameneva.github.io/webcore/  блок-1
+# https://eakameneva.github.io/webcore/sidebar  блок-2
+ 
